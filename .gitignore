@@ -1,0 +1,21 @@
+bin/*
+obj/*
+
+# ========================
+# Database (SQLite)
+# ========================
+*.db
+*.db-shm
+*.db-wal
+app.db
+
+*.swp
+*~
+.vscode/
+.vs/
+
+# ========================
+# OS specific
+# ========================
+.DS_Store
+Thumbs.db
